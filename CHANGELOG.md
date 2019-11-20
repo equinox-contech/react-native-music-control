@@ -1,6 +1,3 @@
-
-## [0.10.6-noAndroidX.1] (All that 0.10.6 contains but without AndroidX support) (2019-1108)
-
 ## [0.10.6](https://github.com/tanguyantoine/react-native-music-control/compare/v0.10.5...v0.10.6) (2019-08-26)
 
 
